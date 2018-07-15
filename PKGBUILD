@@ -1,11 +1,11 @@
 # Maintainer: Bernhard Landauer <oberon@manjaro.org>
 
 pkgname=i3-scrot
-pkgver=1.1
+pkgver=2
 pkgrel=1
 pkgdesc="simple screenshot script using scrot"
 arch=('any')
-url="https://forum.manjaro.org/index.php?topic=31977.msg261964#msg261964"
+url="https://classicforum.manjaro.org/index.php?topic=31977.msg261964#msg261964"
 license=('GPL')
 depends=('libnotify'
 	'scrot'
